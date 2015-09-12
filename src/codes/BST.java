@@ -1,4 +1,4 @@
-package BinaryTree;
+package codes;
 
 public class BST {
 
